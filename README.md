@@ -9,7 +9,7 @@ Una semplice vetrina prodotti stile e-commerce che utilizza una API esterna per 
 - React
 - Vite
 - Fetch API
-- CSS / Tailwind (se lo usi)
+- CSS
 
 ## ✨ Features
 
